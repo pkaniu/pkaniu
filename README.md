@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hi there 👋  I’m @pkaniu
 
-
-- 👋 Hi, I’m @pkaniu
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Neural Networks
 - 🔭 I’m currently working on understanding international trade through Data
