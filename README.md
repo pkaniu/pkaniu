@@ -5,4 +5,3 @@
 - 🔭 I’m currently working on understanding international trade through Data
 - 💬 Ask me anything about Data
  I’m looking to collaborate on any Data related project
-- 📫 How to reach me ... peterkaniu254@gmail.com
